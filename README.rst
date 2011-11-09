@@ -1,4 +1,6 @@
-We are looking for various positions to join us at the Modi Research Group at the Earth Institute in Columbia University. See the positions folder and the bottom of this file for the currently open positions.
+We are looking for various positions to join us at the Modi Research Group at the Earth Institute in Columbia University. 
+Current positions include:
+ - [Senior Software Engineer - https://github.com/prabhasp/test-rst/blob/master/Senior_Software_Eng.rst]
 
 We make software to make development process smarter and to bring new services (health and energy) to people that need them most (primary focus on Africa and India).
 
